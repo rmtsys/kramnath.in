@@ -1,9 +1,9 @@
 {
-    "name": "unibail",
+    "name": "ramnath",
     "version": "2.0.0",
-    "description": "Unibail Rodamco Prototype",
+    "description": "profile",
     "main": "index.js",
-    "author": "Front End Team ( Ramnath )",
+    "author": "Ramnath,
     "license": "ISC",
     "devDependencies": {
         "async": "^2.6.0",
